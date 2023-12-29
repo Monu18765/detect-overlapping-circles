@@ -1,8 +1,4 @@
-# React + Vite
+# Detect Overlapping Circles
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Solution to Uber interview question https://leetcode.com/discuss/interview-question/1784074
+Live At - https://main--benevolent-crumble-f4e0cc.netlify.app/
